@@ -1,0 +1,8 @@
+//
+// Created by Pavel Maksimov on 24.04.2022.
+//
+
+#ifndef ARRAYLIST_ARRAYLISTLIB_H
+#define ARRAYLIST_ARRAYLISTLIB_H
+
+#endif //ARRAYLIST_ARRAYLISTLIB_H
